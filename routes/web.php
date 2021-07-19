@@ -28,3 +28,11 @@ Route::get('/chefs', function () {
 Route::get('/userterms', function () {
     return view('legal/userterms');
 });
+
+Route::get('/vendorterms', function () {
+    return view('legal/vendorterms');
+});
+
+Route::get('/privacypolicy', function () {
+    return view('legal/privacypolicy');
+});

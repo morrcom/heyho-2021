@@ -1337,10 +1337,15 @@ footer .copyright {
 
 footer .sub-footer {
   padding: 60px 0px;
+  padding-top: 30px;
   border-top: 1px solid rgba(250,250,250,0.3);
-  text-align: center;
 }
-
+footer .alignleft {
+	float: left;
+}
+footer .alignright {
+	float: right;
+}
 footer .sub-footer a {
 	color: #FFF;
 }

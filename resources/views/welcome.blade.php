@@ -159,7 +159,7 @@
             </div>
         </section>
 
-<!-- ***** Kitchen Categories Start ***** -->
+<!-- ***** Kitchen Categories Start ***** 
         <div class="col-md-12 text-center">
             <div class="center-heading">
                 <h3><em> SKILLFULL KITCHEN, WONDERFUL FOOD</em></h3>
@@ -183,7 +183,7 @@
               <div class="food"><img src="assets/images/food 3.png" class="img-fluid"></div>
               <div class="food"><img src="assets/images/food 4.png" class="img-fluid"></div>
               <main>
-              </div>
+              </div> -->
 <!-- ***** Chefs Start ***** 
 
 <section class="section" id="chefs">
@@ -211,7 +211,7 @@
 <div class="container">
     <div class="recruit-content">
         <div class="row">
-                <div class="left-image col-lg-5 col-md-12 col-sm-12 mobile-bottom-fix-big"> </div>
+                <div class="left-image col-lg-5 col-md-12 col-sm-12"> </div>
             <div class="right-content col-lg-6 col-md-12 col-sm-12" style="text-align: center;">
                 <h2><em>JOIN US NOW!</em></h2>
                 <h3> WE TAKE YOUR KITCHEN TO THE NEXT LEVEL</h3>
