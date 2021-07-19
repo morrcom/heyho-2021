@@ -25,3 +25,6 @@ Route::get('/chefs', function () {
     return view('chefs');
 });
 
+Route::get('/userterms', function () {
+    return view('legal/userterms');
+});
